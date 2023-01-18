@@ -43,7 +43,9 @@ header {
   padding: 20px;
   background-color: #EAC926;
 }
-
+img.logo{
+  width: 42%;
+}
 nav.navbar ul {
   padding: 10px 0px;
   margin: 0;
@@ -222,8 +224,6 @@ footer i:hover {
     
   }
  
-
-
   .search-bar {
     width: 100%;
     position: relative;
@@ -249,7 +249,7 @@ footer i:hover {
   }
 
   .logo {
-    width: 25%;
+    width: 35%;
   }
 
   .search-bar input {
